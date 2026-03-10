@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Dan and I currently work as a sys admin in the UK
+
+- 🔭 I’m currently working on a kill team tabletop helper app.
+- 🌱 I’m currently learning python and cloud skills.
+- 👯 I’m looking to collaborate on getting into cloud and improving coding skills.
+- 💬 Ask me about tabletop gaming, football or video games.
+- 📫 How to reach me: danscriptedyt@gmail.com or my youtube channel
 <!--
 **danscripted/danscripted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
